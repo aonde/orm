@@ -7,4 +7,3 @@
 - [Examples](examples)
     - [Simple](examples/simple)
     - [Validation](examples/validation)
-- [Upgrading](upgrading)
